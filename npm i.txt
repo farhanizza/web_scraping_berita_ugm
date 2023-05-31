@@ -1,2 +1,5 @@
 npm i axios
 npm i cheerio
+
+=== Pemakaian ===
+node index.js 17779-belajar-dari-pengalaman-dieng-kulon-mengelola-desa-wisata
